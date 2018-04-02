@@ -9,7 +9,7 @@
     {
       "payload": {
         "include-files": [
-          "helloWorld/helloWorld.user.js"
+          "helloWorld/helloWorld.user.css"
         ],
 	      "include-repo":{
 	       "name": "think-attendee-1"
